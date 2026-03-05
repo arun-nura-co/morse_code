@@ -21,7 +21,7 @@ The program was written and compiled using **Keil µVision**, and the circuit wa
 - Keil µVision IDE
 - Proteus Design Suite
 - Embedded C programming
-- 8051 microcontroller (AT89C51 or similar)
+- STM32
 
 ---
 
